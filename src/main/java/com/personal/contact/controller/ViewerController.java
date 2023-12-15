@@ -11,7 +11,7 @@ import com.personal.contact.dto.Viewer;
 import com.personal.contact.service.ViewerService;
 
 @RestController
-@CrossOrigin("https://my-portfolio-pofq.vercel.app/")
+@CrossOrigin("https://my-portfolio-green-nu.vercel.app/")
 public class ViewerController {
 	@Autowired
 	private ViewerService service;
